@@ -1,6 +1,7 @@
 ---
 title: 'Guild Leaderboard Rewards'
 sidebar_label: 'Guild Rewards'
+sidebar_position: 5
 ---
 
 Every week, the top 10 guilds on the leaderboard earn rewards. Rankings reset weekly, so keep grinding and help your guild climb the ranks.
